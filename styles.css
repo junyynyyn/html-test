@@ -1,0 +1,36 @@
+* {
+	color: purple;
+}
+
+body {
+	background-color: silver;
+}
+
+h1 {
+	color: orange;
+	text-align: center;
+}
+
+h2 {
+	color: orange;
+	text-align: center;
+}
+
+.specific-list {
+	background-color: black;
+}
+
+.specific-font {
+	color: orange;
+
+}
+
+img {
+	width: 700px;
+	height: 400px;
+	background-color: purple;
+	padding: 10px;
+	border: 10px dotted black;
+	margin: 20px;
+	text-align: center;
+}
